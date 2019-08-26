@@ -4,7 +4,7 @@
 
 var apiurl;
 if (process.env.NODE_ENV === "production") {
-  apiurl = "https://demo-core.geraldcleaners.com";
+  apiurl = "https://quiet-gorge-70843.herokuapp.com";
 } else {
   apiurl = "http://localhost:8000";
 }

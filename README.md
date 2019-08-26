@@ -1,4 +1,4 @@
-# my-guestbook
+# Guest-Log
 
 > Guest Log
 

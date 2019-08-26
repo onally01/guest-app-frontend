@@ -12,7 +12,7 @@
           <v-col cols="12" sm="8" md="6">
             <v-text-field
               v-model="editedGuestField.name"
-              label="Visitor name"
+              label="Guest name"
             ></v-text-field>
             <span
               v-if="errorMessage.name"

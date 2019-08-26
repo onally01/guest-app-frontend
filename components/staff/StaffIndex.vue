@@ -4,7 +4,7 @@
     <!--Insert confirm component-->
     <confirm-dialog ref="confirm"></confirm-dialog>
 
-    <!--Display staff log table-->
+    <!--Display staff table-->
     <v-data-table
       :headers="headers"
       :items="staffLists"
